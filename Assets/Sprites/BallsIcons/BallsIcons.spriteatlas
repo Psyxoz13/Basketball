@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BallsIcons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 405dff09c2ceb234f8f44b2684ac8f0a, type: 3}
+    - {fileID: 2800000, guid: eceb4ee9fcc96dc48b2dfda4bd10ae3f, type: 3}
+    - {fileID: 2800000, guid: 56760f6772563814d836ca8e3777eefa, type: 3}
+    - {fileID: 2800000, guid: e741a9b6f193b9d46bdbc8ae998743c6, type: 3}
+    - {fileID: 2800000, guid: a9dd1d258da34b04fb8540733f142918, type: 3}
+    - {fileID: 2800000, guid: 664e20606eac7c34aa074f5324aa881f, type: 3}
+    - {fileID: 2800000, guid: 81a5e269b78c0864f943217fc87d335a, type: 3}
+    - {fileID: 2800000, guid: d183bbc8068a08440a50b49e018ecce8, type: 3}
+    - {fileID: 2800000, guid: 70d4d556da4447345acb029789cf0a32, type: 3}
+    - {fileID: 2800000, guid: fd767e8567fd4bd41b5ed5365fe6f570, type: 3}
+    - {fileID: 2800000, guid: f13f97ed318c1ca4cacbd7dc6bb609ad, type: 3}
+    - {fileID: 2800000, guid: 7f016a7433d07324a933590774033f2a, type: 3}
+    - {fileID: 2800000, guid: b99be809918cd034599818ce7e835d1c, type: 3}
+    - {fileID: 2800000, guid: 313870dad47608349a06f4048e8081cc, type: 3}
+    - {fileID: 2800000, guid: debebc115f721a844b8f32245d146830, type: 3}
+    - {fileID: 2800000, guid: afe3d64f302ecba4a8af293d1d22a775, type: 3}
+    - {fileID: 2800000, guid: 5a5bf28d70e619246a59126e2d485a76, type: 3}
+    totalSpriteSurfaceArea: 4456448
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 664e20606eac7c34aa074f5324aa881f, type: 3}
+  - {fileID: 21300000, guid: debebc115f721a844b8f32245d146830, type: 3}
+  - {fileID: 21300000, guid: 7f016a7433d07324a933590774033f2a, type: 3}
+  - {fileID: 21300000, guid: a9dd1d258da34b04fb8540733f142918, type: 3}
+  - {fileID: 21300000, guid: fd767e8567fd4bd41b5ed5365fe6f570, type: 3}
+  - {fileID: 21300000, guid: 70d4d556da4447345acb029789cf0a32, type: 3}
+  - {fileID: 21300000, guid: e741a9b6f193b9d46bdbc8ae998743c6, type: 3}
+  - {fileID: 21300000, guid: 56760f6772563814d836ca8e3777eefa, type: 3}
+  - {fileID: 21300000, guid: d183bbc8068a08440a50b49e018ecce8, type: 3}
+  - {fileID: 21300000, guid: b99be809918cd034599818ce7e835d1c, type: 3}
+  - {fileID: 21300000, guid: 405dff09c2ceb234f8f44b2684ac8f0a, type: 3}
+  - {fileID: 21300000, guid: 81a5e269b78c0864f943217fc87d335a, type: 3}
+  - {fileID: 21300000, guid: eceb4ee9fcc96dc48b2dfda4bd10ae3f, type: 3}
+  - {fileID: 21300000, guid: 313870dad47608349a06f4048e8081cc, type: 3}
+  - {fileID: 21300000, guid: 5a5bf28d70e619246a59126e2d485a76, type: 3}
+  - {fileID: 21300000, guid: f13f97ed318c1ca4cacbd7dc6bb609ad, type: 3}
+  - {fileID: 21300000, guid: afe3d64f302ecba4a8af293d1d22a775, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - logoBlue
+  - stripedOrange
+  - stripedBlue
+  - dragon
+  - orange
+  - logoYellow
+  - dots
+  - yellow
+  - logoWhite
+  - stripedBlueYellow
+  - blue
+  - logoOrange
+  - comics
+  - stripedBlueYellowX2
+  - white
+  - streetArt
+  - stripedRed
+  m_RenderDataMap: {}
+  m_Tag: BallsIcons
+  m_IsVariant: 0

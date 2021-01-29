@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key name="settings-title">
+		<Localizations>
+			<en-us>Settings</en-us>
+			<ru>Настройки</ru>
+		</Localizations>
+	</Key>
+	<Key name="settings-music">
+		<Localizations>
+			<en-us>Music</en-us>
+			<ru>Музыка</ru>
+		</Localizations>
+	</Key>
+	<Key name="settings-sounds">
+		<Localizations>
+			<en-us>Sounds</en-us>
+			<ru>Звуки</ru>
+		</Localizations>
+	</Key>
+	<Key name="settings-language">
+		<Localizations>
+			<en-us>Language</en-us>
+			<ru>Язык</ru>
+		</Localizations>
+	</Key>
+	<Key name="play-title">
+		<Localizations>
+			<en-us>Play</en-us>
+			<ru>Игра</ru>
+		</Localizations>
+	</Key>
+	<Key name="play-description">
+		<Localizations>
+			<en-us>2 balls
+2 minutes
+
+Task: Maximum points in the allotted time</en-us>
+			<ru>2 мяча
+2 минуты
+
+Задача: Максимальное количество очков за отведенное время</ru>
+		</Localizations>
+	</Key>
+	<Key name="play-record">
+		<Localizations>
+			<en-us>Record</en-us>
+			<ru>Рекорд</ru>
+		</Localizations>
+	</Key>
+	<Key name="pause-title">
+		<Localizations>
+			<en-us>Pause</en-us>
+			<ru>Пауза</ru>
+		</Localizations>
+	</Key>
+	<Key name="pause-mainmenu">
+		<Localizations>
+			<en-us>Main Menu</en-us>
+			<ru>Главное Меню</ru>
+		</Localizations>
+	</Key>
+	<Key name="pause-continue">
+		<Localizations>
+			<en-us>Continue</en-us>
+			<ru>Продолжить</ru>
+		</Localizations>
+	</Key>
+	<Key name="balls-title">
+		<Localizations>
+			<en-us>Balls</en-us>
+			<ru>Мячи</ru>
+		</Localizations>
+	</Key>
+	<Key name="coins-title">
+		<Localizations>
+			<en-us>Coins</en-us>
+			<ru>Монеты</ru>
+		</Localizations>
+	</Key>
+	<Key name="result-title">
+		<Localizations>
+			<en-us>Result</en-us>
+			<ru>Результат</ru>
+		</Localizations>
+	</Key>
+	<Key name="result-restart">
+		<Localizations>
+			<en-us>Restart</en-us>
+			<ru>Рестарт</ru>
+		</Localizations>
+	</Key>
+	<Key name="result-mainmenu">
+		<Localizations>
+			<en-us>Main Menu</en-us>
+			<ru>Главное Меню</ru>
+		</Localizations>
+	</Key>
+	<Key name="result-text">
+		<Localizations>
+			<en-us>Score:
+Record:</en-us>
+			<ru>Счет:
+Рекорд:</ru>
+		</Localizations>
+	</Key>
+	<Key name="buyskin-title">
+		<Localizations>
+			<en-us>Buy</en-us>
+			<ru>Купить</ru>
+		</Localizations>
+	</Key>
+</Keys>

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc6d7a56d9688fa4e9109d4f89f62c1d, type: 3}
+  m_Name: StripedBlueSkin
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 7f016a7433d07324a933590774033f2a, type: 3}
+  SkinInfo:
+    Name: StripedBlue
+    Cost: 500
+  Texture:
+    BallColor: {r: 0, g: 0.31764707, b: 0.6039216, a: 1}
+    BallTexture: {fileID: 2800000, guid: 7a870a712235b004182825586775a276, type: 3}
+    RimColor: {r: 0.6514774, g: 0.7467274, b: 0.754717, a: 1}
